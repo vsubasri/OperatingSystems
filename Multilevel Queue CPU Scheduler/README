@@ -1,0 +1,10 @@
+/*
+ * Name: Valli Subasri
+ * Student Number: 250697148
+ */
+
+To execute program first execute the command 'make all' in the terminal; this will create an executable file: schedule. 
+
+The proper usage of this executable file is as follows 'schedule 3' where 3 represents the number of queues in this particular multilevel priority queue. Any number can be used instead of 3 but for this assignment 3 will be used. 
+
+Following this prompts will be made to enter the priority, scheduling method and processes for each queue as well as the accompanying burst times for each process. For any queue using round robin, a prompt will also be presented to determine the time quantum value. 
