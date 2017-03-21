@@ -1,6 +1,5 @@
 /*
  * Name: Valli Subasri
- * Student Number: 250697148
  */
  
 #include <stdio.h> 
