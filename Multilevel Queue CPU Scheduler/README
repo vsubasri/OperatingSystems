@@ -1,6 +1,5 @@
 /*
  * Name: Valli Subasri
- * Student Number: 250697148
  */
 
 To execute program first execute the command 'make all' in the terminal; this will create an executable file: schedule. 
